@@ -1,0 +1,33 @@
+{
+  "name": "s3-checker",
+  "version": "1.0.0",
+  "description": "Checks if an AWS S3 bucket is publicly exposed.",
+  "main": "src/index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/s3-checker.git"
+  },
+  "keywords": [
+    "aws",
+    "s3",
+    "security",
+    "bucket-policy",
+    "policy",
+    "bucket",
+    "public-check",
+    "access-control"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/s3-checker/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/s3-checker#readme"
+}

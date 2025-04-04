@@ -1,11 +1,23 @@
 # s3-checker
 
-A simple tool to check if an S3 bucket is publicly exposed.
+Checks if an AWS S3 bucket is publicly exposed or not.
+
+[![npm](https://img.shields.io/npm/v/s3-checker.svg)](https://www.npmjs.com/package/s3-checker)  [![License](https://img.shields.io/npm/l/s3-checker.svg)](LICENSE) 
 
 # Installation
+
+Install via npm
+
 ```sh
-npm install s3-checker
+npm i s3-checker
 ```
+
+Install via yarn
+
+```sh
+yarn add s3-checker
+```
+
 
 # Usage
 
